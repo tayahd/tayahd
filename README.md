@@ -11,7 +11,7 @@ Tech Enthusiast and Future Cybersecurity Analyst</h1>
 <h2> 🤳 Connect with me:</h2>
 
 
-[<img align="left" alt="TayahDixon | LinkedIn" width="22p x 15p" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://linkedin.com/in/tayah-dixon-184298233)" />][linkedin]
+[<img align="left" alt="TayahDixon | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
