@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tayah! <br/><a Future Cybersecurity Analyst
+<h1>Hi, I'm Tayah! <br/> <h1>Future Cybersecurity Analyst</h1>
 
 <h2> Cybersecurity Projects:</h2>
 
